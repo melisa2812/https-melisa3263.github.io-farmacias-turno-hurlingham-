@@ -15,6 +15,17 @@ https://www.facebook.com/FarmaciaAvenidaOK
 
 ![image](https://github.com/user-attachments/assets/8be18b44-44c0-4297-b0f9-8e58eb3dfcf6)
 
+Al servicio de la comunidad
+Teléfono
++54 9 11 2838 0654
+
+Whatsapp
+Escríbenos
+
+Horarios
+Lun a Vie: 8:30 a 13:00 hs. y 16:00 a 20:00 hs.
+Sábados 8:30 a 13:00 hs. Días de Turno 24 hs.
+
 </header>
 
 <!--
