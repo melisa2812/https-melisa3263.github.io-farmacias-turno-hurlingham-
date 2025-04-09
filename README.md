@@ -1,18 +1,19 @@
-[<header>](https://melisa3263.github.io/farmacias-turno-hurlingham/
-)
 
-<!--
-  <<< Author notes: Course header >>>
-  Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
-  Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Next to "About", add description & tags; disable releases, packages, & environments.
-  Add your open source license, GitHub uses the MIT license.
--->
+![image](https://github.com/user-attachments/assets/bf4fa6c4-6dcd-4b1c-84fb-ad6afac27fae)
+ 
 
-# TBD-course-name
+ TU SALUD , NUESTRA PRIORIDAD
+ EN NUESTRA FARMACIA TRABAJAMOS CADA DIA PARA BRINDARTE UNA ATENCION CERCANA, PROFESIONAL Y HUMANA .
+ SABEMOS LO IMPORTANTE QUE ES SENTIRTE ACOMPAÑADO, ESTAMOS PARA AYUDARTE CON COMPROMISO, CALIDEZ Y RESPALDO 
 
-_TBD-course-description_
+ ![image](https://github.com/user-attachments/assets/b826b752-4abf-4552-96b5-7d2583dfc384)
+
+
+NUESTRA PAGINA 
+https://www.farmacia-avenida.com.ar/
+https://www.facebook.com/FarmaciaAvenidaOK
+
+![image](https://github.com/user-attachments/assets/8be18b44-44c0-4297-b0f9-8e58eb3dfcf6)
 
 </header>
 
@@ -25,7 +26,7 @@ _TBD-course-description_
   TBD-step-1-notes.
 -->
 
-## Step 1: TBD-step-1-name
+## TURNOS DEL AÑO 2025
 
 _Welcome to "TBD-course-name"! :wave:_
 
@@ -33,20 +34,26 @@ TBD-step-1-information
 
 **What is _TBD-term-1_**: TBD-definition-1
 
-### :keyboard: Activity: TBD-step-1-name
+### :Trabajamos con coberturas medicas, prepagas y obra sociales
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. TBD-step-1-instructions.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+![image](https://github.com/user-attachments/assets/d6312c4e-94f4-4320-a387-34fe18d72c69)
+![image](https://github.com/user-attachments/assets/d6cf0206-7830-4d83-b735-c36b1b6a67d3)
+![image](https://github.com/user-attachments/assets/efc5e489-c75d-4068-9be9-d218d5cfd88b)                     !
+![image](https://github.com/user-attachments/assets/d5aa84a7-b3c1-468a-869a-1078541034e1)  
+![image](https://github.com/user-attachments/assets/f69c3432-c3ab-4a80-892a-1b244e19aa98)
+![image](https://github.com/user-attachments/assets/26581a1d-4d86-4d96-a74b-335f827049d6)
+![image](https://github.com/user-attachments/assets/84cfda08-ed29-4543-ba42-3cfdf7725dbf)
+![image](https://github.com/user-attachments/assets/3d860b56-16d3-41e0-b73a-416caa4b2e81)
+![image](https://github.com/user-attachments/assets/478881e9-3114-44fe-9437-c14250bae80d)
+![image](https://github.com/user-attachments/assets/6786cf2e-899e-498e-901f-b6f77f98a9fb)
+![image](https://github.com/user-attachments/assets/5eac41d1-8e04-475c-9e8e-bc147eb26dd9)
+![image](https://github.com/user-attachments/assets/b8cd5719-76dd-42af-87ad-963bcf0d208e)
+![image](https://github.com/user-attachments/assets/974ceb89-43c6-487b-9690-289db8c99887)
 
 ---
+
+ MEDIOS DE PAGO
+ ![image](https://github.com/user-attachments/assets/b10b5d02-2452-4484-a712-d7f84ad89bee)
 
 Get help: [TBD-support](TBD-support-link) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
